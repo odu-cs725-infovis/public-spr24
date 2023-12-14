@@ -25,14 +25,14 @@ Click on the week number to get that week's agenda, reading assignment, and link
 
 |Week |Date|Topic|HW Assigned|HW Due|
 |---|---|---|---|---|
-|[1](agenda.md#week-1)|Jan 8, 10|Tue: Course Intro <br/>Thu: Data Vis Overview | HW1  | Personal Intro, Week 1 Discussion |
-|[2](agenda.md#week-2)|Jan 15, 17|Tue: **NO CLASS - MLK Day**<br/>Thu: **TBA** | | |
-|[3](agenda.md#week-3)|Jan 22, 24|Tue: Visual Analytics Principles<br/>Thu: Vega-Lite Intro | |  |
-|[4](agenda.md#week-4)|Jan 29, 31|Tue: IEEE VIS Conferences, Reading Academic Papers<br/>Thu: D3 Principles and Data Manipulation  | HW2 | HW1  |
-|[5](agenda.md#week-5)|Feb 5, 7| Tue: Giving Presentations <br/>Thu: D3 Vis Intro | paper presentation |  |
-|[6](agenda.md#week-6)|Feb 12, 14| Tue: Handling Complexity in Data<br/>Thu: D3 Vis| HW3 |   |
-|[7](agenda.md#week-7)|Feb 19, 21|Tue: Network and Tree Visualization<br/>Thu: Interactivity in D3 |  | |
-|[8](agenda.md#week-8)|Feb 26, 28|Tue: Dashboard Design<br/>Thu: Implementing Dashboards in Vega-Lite and D3 | HW4<br/>project |  |
+|[1](agenda.md#week-1)|Jan 8, 10|Mon: Course Intro <br/>Wed: Data Vis Overview | HW1  | Personal Intro, Week 1 Discussion |
+|[2](agenda.md#week-2)|Jan 15, 17|Mon: **NO CLASS - MLK Day**<br/>Wed: **TBA** | | |
+|[3](agenda.md#week-3)|Jan 22, 24|Mon: Visual Analytics Principles<br/>Wed: Vega-Lite Intro | |  |
+|[4](agenda.md#week-4)|Jan 29, 31|Mon: IEEE VIS Conferences, Reading Academic Papers<br/>Wed: D3 Principles and Data Manipulation  | HW2 | HW1  |
+|[5](agenda.md#week-5)|Feb 5, 7| Mon: Giving Presentations <br/>Wed: D3 Vis Intro | paper presentation |  |
+|[6](agenda.md#week-6)|Feb 12, 14| Mon: Handling Complexity in Data<br/>Wed: D3 Vis| HW3 |   |
+|[7](agenda.md#week-7)|Feb 19, 21|Mon: Network and Tree Visualization<br/>Wed: Interactivity in D3 |  | |
+|[8](agenda.md#week-8)|Feb 26, 28|Mon: Dashboard Design<br/>Wed: Implementing Dashboards in Vega-Lite and D3 | HW4<br/>project |  |
 ||Mar 4, 6|**NO CLASS - Spring Break** | | |
 |[9](agenda.md#week-9)|Mar 11, 13|Project Discussion | | |
 |[10](agenda.md#week-10)|Mar 18, 20|Visualizing Uncertainty | | |
