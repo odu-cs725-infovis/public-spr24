@@ -72,13 +72,15 @@
 
 [Agenda and Materials](#agenda-and-materials-1) | [Resources](#resources-1) | [Assignment](#assignment-1)
 
-[References and Additional Resources for Week 2](resources.md#week-2)
-
 ### Due (before class)
 
 * Read Keim et al., [Visual Analytics: Definition, Process, and Challenges](https://d-nb.info/1098134664/34), *Information Visualization*, 2008
 
 ### Agenda and Materials
+
+*to be posted*
+
+### Assignment
 
 *to be posted*
 
