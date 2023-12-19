@@ -6,7 +6,7 @@
 
 ## Week 1
 
-[Agenda and Materials](#agenda-and-materials) | [Resources](#resources) | [Assignment](#assignment)
+[Agenda and Materials](#agenda-and-materials) | [Assignment](#assignment) | [Resources](#resources)
 
 ### Due (before class)
 
@@ -31,7 +31,11 @@
   * discuss questions from [Week 1 Discussion](https://canvas.odu.edu/courses/152933/discussion_topics/723573)
 * Data Sources
   * [Stop using Kaggle for your Data Science projects](https://faun.dev/c/stories/edwarda_johnson/stop-using-kaggle-for-your-data-science-projects/)
-* Interesting Visualizations
+
+### Assignment
+
+* [HW1 - Vega-Lite Intro](HW1-VegaLite.md)
+* Review Week 2 materials and complete the reading assignment before class
 
 ### Resources
 
@@ -63,14 +67,11 @@
   * R package, <https://walker-data.com/tidycensus/>
   * Python package, <https://pypi.org/project/census/>
 
-### Assignment
-
-* [HW1 - Vega-Lite Intro](HW1-VegaLite.md)
-* Review Week 2 materials and complete the reading assignment before class
 
 ## Week 2
 
-[Agenda and Materials](#agenda-and-materials-1) | [Resources](#resources-1) | [Assignment](#assignment-1)
+[Agenda and Materials](#agenda-and-materials-1) | [Assignment](#assignment-1)
+| [Resources](#resources-1) 
 
 ### Due (before class)
 
@@ -83,4 +84,9 @@
 ### Assignment
 
 *to be posted*
+
+### Resources
+
+*to be posted*
+
 
