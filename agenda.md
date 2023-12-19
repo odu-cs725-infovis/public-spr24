@@ -6,7 +6,7 @@
 
 ## Week 1
 
-[Agenda and Materials](#agenda-and-materials-wk1) | [Resources](#resources-wk1) | [Assignment](#assignment-wk1)
+[Agenda and Materials](#1-agenda) | [Resources](#1-resources) | [Assignment](#1-assignment)
 
 ### Due (before class)
 
@@ -20,7 +20,7 @@
     * CS 432/532 - Mod 03, p2 - Visualization Idioms (12:39)
 * Make a "Week 1 | Discussion Vis Overview" post in Canvas and review other students' questions.
 
-### Agenda and Materials Wk1
+### <a name="1-agenda">Agenda and Materials</a>
 
 * Course Intro
   * [GitHub repo](README.md)
@@ -33,7 +33,7 @@
   * [Stop using Kaggle for your Data Science projects](https://faun.dev/c/stories/edwarda_johnson/stop-using-kaggle-for-your-data-science-projects/)
 * Interesting Visualizations
 
-### Resources Wk1
+### <a name="1-resources">Resources</a>
 
 [CS 725/825 project highlights (2021-2022)](https://ws-dl.blogspot.com/2022/12/2022-12-02-visualization-class-projects.html)
 
@@ -63,12 +63,14 @@
   * R package, <https://walker-data.com/tidycensus/>
   * Python package, <https://pypi.org/project/census/>
 
-### Assignment Wk1
+### <a name="1-assignment">Assignment</a>
 
 * [HW1 - Vega-Lite Intro](HW1-VegaLite.md)
 * Review Week 2 materials and complete the reading assignment before class
 
 ## Week 2
+
+[Agenda and Materials](#2-agenda) | [Resources](#2-resources) | [Assignment](#2-assignment)
 
 [References and Additional Resources for Week 2](resources.md#week-2)
 
@@ -76,7 +78,7 @@
 
 * Read Keim et al., [Visual Analytics: Definition, Process, and Challenges](https://d-nb.info/1098134664/34), *Information Visualization*, 2008
 
-### Agenda and Materials Wk2
+### <a name="2-agenda">Agenda and Materials</a>
 
 *to be posted*
 
