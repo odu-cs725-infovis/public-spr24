@@ -75,7 +75,7 @@
 
 ### Due (before class)
 
-* Read Keim et al., [Visual Analytics: Definition, Process, and Challenges](https://d-nb.info/1098134664/34), *Information Visualization*, 2008
+*to be posted*
 
 ### Agenda and Materials
 
