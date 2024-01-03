@@ -1,17 +1,17 @@
 # Semester Agenda
 
-*Video recordings of class meetings will typically be posted in the Canvas Media Gallery by the morning after class.*
-
 [Jump to this week](#week-1)
 
 ## Week 1
 
 [Agenda and Materials](#agenda-and-materials) | [Assignment](#assignment) | [Resources](#resources)
 
-### Due (before class)
+### Due Mon (before class)
 
 * Complete the "Start Here" tasks in Canvas
 * Make an "Introduce Yourself to the Class" post in Canvas
+
+### Due Wed (before class)
 * Watch intro to data visualization videos
   * [Tamara Munzner's keynote at d3.unconf](https://www.youtube.com/watch?v=jVC6SQS23ak) (55:49) ([slides](https://www.cs.ubc.ca/~tmm/talks/minicourse14/vad15d3unconf.pdf))
     * at time 34:15 (slide 19) -- pause this video, watch the two below, then go back and finish this one
