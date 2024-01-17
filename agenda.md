@@ -1,6 +1,6 @@
 # Semester Agenda
 
-[Jump to this week](#week-1)
+[Jump to this week](#week-2)
 
 ## Week 1
 
@@ -12,6 +12,7 @@
 * Make an "Introduce Yourself to the Class" post in Canvas
 
 ### Due Wed (before class)
+
 * Watch intro to data visualization videos
   * [Tamara Munzner's keynote at d3.unconf](https://www.youtube.com/watch?v=jVC6SQS23ak) (55:49) ([slides](https://www.cs.ubc.ca/~tmm/talks/minicourse14/vad15d3unconf.pdf))
     * at time 34:15 (slide 19) -- pause this video, watch the two below, then go back and finish this one
@@ -67,11 +68,10 @@
   * R package, <https://walker-data.com/tidycensus/>
   * Python package, <https://pypi.org/project/census/>
 
-
 ## Week 2
 
 [Agenda and Materials](#agenda-and-materials-1) | [Assignment](#assignment-1)
-| [Resources](#resources-1) 
+| [Resources](#resources-1)
 
 ### Due (before class)
 
@@ -143,17 +143,34 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 ### Due (before class)
 
-*to be posted*
+* Read Enrico Bertini, [From Data Visualization to Interactive Data Analysis](https://medium.com/@FILWD/from-data-visualization-to-interactive-data-analysis-e24ae3751bf3), medium.com, November 2017. ([PDF available in Canvas](https://canvas.odu.edu/files/31761513/))
 
 ### Agenda and Materials
 
-*to be posted*
+[Visual Analytics slides](https://docs.google.com/presentation/d/1SnabdFdtfhyYQov66Hr3ZvfMp1U3TZ3DSuTVDBZHTTU/preview)
+
+* watch visual analytics videos
+* discuss Bertini article
+* highlight examples of visual analytics systems
 
 ### Assignment
 
-*to be posted*
+* HW1 is due next week
+* Review next week's materials before class
+  * in particular, fork and start experimenting with the D3 Observable notebook - *to be posted*
 
 ### Resources
 
-*to be posted*
+Visual Analytics Videos
 
+* Jean-Daniel Fekete, Visual Analytics - Mastering the Information Age, 2010, <https://www.youtube.com/watch?v=5i3xbitEVfs> (7:39)
+* Jeff Hemsley (Syracuse iSchool), What is Visual Analytics?, 2021, <https://www.youtube.com/watch?v=0og3HT8UqD4> (19:00)
+
+Examples of Visual Analytics Systems
+
+* [Visual Analysis and Dissemination of Scientific Literature Collections with SurVis](https://ieeexplore.ieee.org/document/7192633), IEEE TVCG 2016
+* [TopicSifter: Interactive Search Space Reduction Through Targeted Topic Modeling](https://arxiv.org/pdf/1907.12079.pdf), IEEE VIS 2019
+* [MineTime Insight: Visualizing Meeting Habits to Promote Informed Scheduling Decisions](https://cgl.ethz.ch/Downloads/Publications/Papers/2019/Anc19b/Anc19b.pdf), IEEE VIS 2020
+* [SmartAdP: Visual Analytics of Large-scale Taxi Trajectories for Selecting Billboard Locations](http://urban-computing.com/pdf/SmartAdP_Zheng.pdf), IEEE TVCG 2017
+* [PassVizor: Toward Better Understanding of the Dynamics of Soccer Passes](https://arxiv.org/pdf/2009.02464.pdf), IEEE VIS 2020
+* [DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models](https://arxiv.org/pdf/2008.08353.pdf), IEEE VIS 2020
