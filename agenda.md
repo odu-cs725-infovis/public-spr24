@@ -23,11 +23,16 @@
 
 ### Agenda and Materials
 
+**Mon:**
+
 * Course Intro
   * [GitHub repo](README.md)
   * [Canvas course](https://canvas.odu.edu/courses/152933)
   * [Syllabus](syllabus.md)
 * [Personal Intro](https://canvas.odu.edu/courses/152933/discussion_topics/723575) - Canvas discussion
+
+**Wed:**
+
 * Data Vis Overview
   * discuss questions from [Week 1 Discussion](https://canvas.odu.edu/courses/152933/discussion_topics/723573)
 * Data Sources
@@ -81,13 +86,13 @@
 
 **Mon: NO CLASS - MLK, Jr. Holiday**
 
+**Wed:**
+
 Observable/Arquero/Vega-Lite Practice Notebook - <https://observablehq.com/@oducs-vis/observable-arquero-vega-lite-practice-notebook>
 
 Observable - see [Observable](#observable) links below
 
 Arquero, library for query processing and transformation of array-backed data tables - see [Arquero](#arquero) links below
-
-Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [Vega-Lite JSON style](#vega-lite-json-style) links below
 
 ### Assignment
 
@@ -115,6 +120,38 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 * [Arquero API Reference](https://uwdata.github.io/arquero/api/)
 * [Arquero Notebook Collection](https://observablehq.com/collection/@uwdata/arquero)
 
+## Week 3
+
+[Agenda and Materials](#agenda-and-materials-2) | [Assignment](#assignment-2) | [Resources](#resources-2)
+
+### Due Wed (before class)
+
+* Read Enrico Bertini, [From Data Visualization to Interactive Data Analysis](https://medium.com/@FILWD/from-data-visualization-to-interactive-data-analysis-e24ae3751bf3), medium.com, November 2017. ([PDF available in Canvas](https://canvas.odu.edu/files/31761513/))
+
+### Agenda and Materials
+
+**Mon:**
+
+Observable/Arquero/Vega-Lite Practice Notebook - <https://observablehq.com/@oducs-vis/observable-arquero-vega-lite-practice-notebook>
+
+Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [Vega-Lite JSON style](#vega-lite-json-style) links below
+
+**Wed:**
+
+[Visual Analytics slides](https://docs.google.com/presentation/d/1SnabdFdtfhyYQov66Hr3ZvfMp1U3TZ3DSuTVDBZHTTU/preview)
+
+* watch visual analytics videos
+* discuss Bertini article
+* highlight examples of visual analytics systems
+
+### Assignment
+
+* HW1 is due next week
+* Review next week's materials before class
+  * in particular, fork and start experimenting with the D3 Observable notebook - *to be posted*
+
+### Resources
+
 #### Vega-Lite API style
 
 * [Vega-Lite API Reference](https://vega.github.io/vega-lite-api/api/)
@@ -137,36 +174,12 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 * [Working with Vega-Lite](https://observablehq.com/@didoesdigital/working-with-vega-lite)
 * [Vega-Lite API vs. JSON Examples](https://observablehq.com/@oducs-vis/vega-lite-api-vs-json?collection=@oducs-vis/cs625) - Week 5 in CS 625
 
-## Week 3
-
-[Agenda and Materials](#agenda-and-materials-2) | [Assignment](#assignment-2) | [Resources](#resources-2)
-
-### Due (before class)
-
-* Read Enrico Bertini, [From Data Visualization to Interactive Data Analysis](https://medium.com/@FILWD/from-data-visualization-to-interactive-data-analysis-e24ae3751bf3), medium.com, November 2017. ([PDF available in Canvas](https://canvas.odu.edu/files/31761513/))
-
-### Agenda and Materials
-
-[Visual Analytics slides](https://docs.google.com/presentation/d/1SnabdFdtfhyYQov66Hr3ZvfMp1U3TZ3DSuTVDBZHTTU/preview)
-
-* watch visual analytics videos
-* discuss Bertini article
-* highlight examples of visual analytics systems
-
-### Assignment
-
-* HW1 is due next week
-* Review next week's materials before class
-  * in particular, fork and start experimenting with the D3 Observable notebook - *to be posted*
-
-### Resources
-
-Visual Analytics Videos
+#### Visual Analytics Videos
 
 * Jean-Daniel Fekete, Visual Analytics - Mastering the Information Age, 2010, <https://www.youtube.com/watch?v=5i3xbitEVfs> (7:39)
 * Jeff Hemsley (Syracuse iSchool), What is Visual Analytics?, 2021, <https://www.youtube.com/watch?v=0og3HT8UqD4> (19:00)
 
-Examples of Visual Analytics Systems
+#### Examples of Visual Analytics Systems
 
 * [Visual Analysis and Dissemination of Scientific Literature Collections with SurVis](https://ieeexplore.ieee.org/document/7192633), IEEE TVCG 2016
 * [TopicSifter: Interactive Search Space Reduction Through Targeted Topic Modeling](https://arxiv.org/pdf/1907.12079.pdf), IEEE VIS 2019
