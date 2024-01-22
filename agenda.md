@@ -88,7 +88,7 @@
 
 **Wed:**
 
-Observable/Arquero/Vega-Lite Practice Notebook - <https://observablehq.com/@oducs-vis/observable-arquero-vega-lite-practice-notebook>
+Observable/Arquero/Vega-Lite Practice Notebook - <https://observablehq.com/@oducs-vis/observable-arquero-vega-lite-practice-notebook> ([in-class version](https://observablehq.com/@oducs-vis/cs725s24-inclass-1))
 
 Observable - see [Observable](#observable) links below
 
@@ -132,7 +132,7 @@ Arquero, library for query processing and transformation of array-backed data ta
 
 **Mon:**
 
-Observable/Arquero/Vega-Lite Practice Notebook - <https://observablehq.com/@oducs-vis/observable-arquero-vega-lite-practice-notebook>
+Observable/Arquero/Vega-Lite Practice Notebook - <https://observablehq.com/@oducs-vis/observable-arquero-vega-lite-practice-notebook>  ([in-class version](https://observablehq.com/@oducs-vis/cs725s24-inclass-1))
 
 Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [Vega-Lite JSON style](#vega-lite-json-style) links below
 
