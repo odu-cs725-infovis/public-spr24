@@ -247,7 +247,7 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
   * My papers: <https://scholar.archive.org/search?q=michele+c.+weigle>
   * Example search for a particular paper, <https://scholar.archive.org/search?q=automatically+selecting+striking+images+for+social+cards>
 * S. Keshav, [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
-* Reading Papers, lecture slides from Dr. Brunelle's CS 891, Spring 2019 - *link currently unavailable*
+* [Reading Papers](https://www.cs.odu.edu/~mweigle/courses/JFB_03_reading_papers.pdf), lecture slides from Dr. Brunelle's CS 891, Spring 2019
 * William Griswold, [How to Read an Engineering Research Paper](http://www.cs.ucsd.edu/users/wgg/CSE210/howtoread.html)
 * [Example of marking up a paper](https://drive.google.com/open?id=1UQeT9o-IvLhp5RAv1vAJ7DS-lXQdNW7E)
 * Jason Eisner, [How to Read a Technical Paper](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
