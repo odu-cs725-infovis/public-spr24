@@ -207,7 +207,7 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 ## Assignment
 
-* HW2 -  Data Manipulation - *to be added*
+* [HW2 -  Data Manipulation](HW2-data.md)
 * Review next week's materials before class
 
 ### Resources
