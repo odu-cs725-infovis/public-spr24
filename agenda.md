@@ -1,6 +1,6 @@
 # Semester Agenda
 
-[Jump to Week 4](#week-4)
+[Jump to Week 5](#week-5)
 
 ## Week 1
 
@@ -253,3 +253,48 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 * Jason Eisner, [How to Read a Technical Paper](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
 * Michael Mitzenmacher, [How to Read a Research Paper](http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
 * Tia Newhall, [Some Tips for Reading Research Papers](http://www.cs.swarthmore.edu/~newhall/cs97/s00/ReadingAdvice.html)
+
+## Week 5
+
+[Agenda and Materials](#agenda-and-materials-4) | [Assignment](#assignment-4) | [Resources](#resources-4)
+
+### Agenda and Materials
+
+* [D3 Vis Intro](https://observablehq.com/@oducs-vis/d3-vis-intro)
+  * [supplemental slides](https://docs.google.com/presentation/d/1r_hh5f0sdSrxXYb-UJGSu-OlG1U65H32pAgraMVDVg0/preview)
+  * [SVG Translate Example slides](https://docs.google.com/presentation/d/1TKFcgmPKvybFX22-XDJ8f3Hn_0IVbmo5rt045GX34jE/preview)
+* Giving Presentations
+  * slides from CS 800 ([Week-06-Presenting](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/preview))
+
+### Assignment
+
+* [Academic Paper Presentation](presentation.md)
+  * [suggested papers list](papers.md)
+* Review next week's materials before class
+
+### Resources
+
+#### D3 Vis Intro
+
+* [Video playlist for W209 Data Visualization at UC Berkeley's Masters in Data Science (MIDS) Program](https://www.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz) - includes web development basics, ObservableHQ, Intro to D3 with Observable, Intro to Vega-Lite with Observable, and more!
+* D3 Vis Intro
+  * [NYU Visualization Guides and Examples Collection](https://observablehq.com/collection/@nyuvis/guides-and-examples)
+  * [NYU Vis D3 Introduction](https://observablehq.com/@nyuvis/d3-introduction?collection=@nyuvis/guides-and-examples)
+  * [NYU Vis Bar Chart Walk-through](https://observablehq.com/@nyuvis/bar-chart-walk-through?collection=@nyuvis/guides-and-examples)
+* [Learn D3 Collection](https://observablehq.com/collection/@d3/learn-d3)
+  * [Learn D3: By Example](https://observablehq.com/@d3/learn-d3-by-example?collection=@d3/learn-d3)
+* [D3 Documentation Collection](https://observablehq.com/collection/@d3/documentation)
+* [D3 Gallery](https://observablehq.com/@d3/gallery)
+* [D3 API Reference](https://github.com/d3/d3/blob/main/API.md)
+
+#### Giving Presentations
+
+* Ashwin Ram, [Presenting a Paper](https://www.cc.gatech.edu/faculty/ashwin/wisdom/how-to-present-a-paper.html) - focuses on presenting others' work
+* Jiri Srba, [How to Read and Present a Scientific Paper](https://homes.cs.aau.dk/~srba/courses/FS-07/slides-talk.pdf)
+* Nicholas Nethercote, [Giving a Good Research Talk](https://web.archive.org/web/20200220135851/http://njn.valgrind.org/good-talk.html)
+* Justin Brunelle, [Presenting Academic Research slides](https://www.cs.odu.edu/~mweigle/courses/JFB_06_presenting101.pdf), from CS 891, Fall 2019
+* Tamara Munzner, <http://www.cs.ubc.ca/~tmm/policy.txt>
+* Jones et al., [How to Give a Good Research Talk](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/giving-a-talk.pdf)
+* Arnaud Legout, [How To Give a Talk](http://cel.archives-ouvertes.fr/cel-00529505/en/) - comprehensive set of guidelines, includes advice on slide design
+* Jean-luc Doumont, [Creating Effective Slides](https://www.youtube.com/watch?v=meBXuTIPJQk), talk April 4, 2013 at Clark Center, Stanford Univeristy, video (1:03:03)
+* English Communication for Scientists, [Giving Oral Presentations](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/giving-oral-presentations-14239332) (includes delivering as a non-native speaker)
