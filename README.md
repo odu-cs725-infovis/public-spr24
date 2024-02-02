@@ -25,10 +25,10 @@ Click on the week number to get that week's agenda, reading assignment, and link
 
 |Week |Date|Topic|HW Assigned|HW Due|
 |---|---|---|---|---|
-|[1](agenda.md#week-1)|Jan 8, 10|Mon: Course Intro <br/>Wed: Data Vis Overview | HW1  | Personal Intro, Week 1 Discussion |
+|[1](agenda.md#week-1)|Jan 8, 10|Mon: Course Intro <br/>Wed: Data Vis Overview | [HW1](HW1-Vega-Lite.md)  | Personal Intro, Week 1 Discussion |
 |[2](agenda.md#week-2)|Jan 15, 17|Mon: **NO CLASS - MLK Day**<br/>Wed: Observable, Arquero Intro | | |
 |[3](agenda.md#week-3)|Jan 22, 24|Mon: Vega-Lite Refresher<br/>Wed: Visual Analytics Principles | |  |
-|[4](agenda.md#week-4)|Jan 29, 31|Mon: D3 Principles and Data Manipulation<br/>Wed: IEEE VIS Conferences, Reading Academic Papers| HW2 | HW1 |
+|[4](agenda.md#week-4)|Jan 29, 31|Mon: D3 Principles and Data Manipulation<br/>Wed: IEEE VIS Conferences, Reading Academic Papers| [HW2](HW2-data.md) | HW1 |
 |[5](agenda.md#week-5)|Feb 5, 7| Mon: D3 Vis Intro<br/>Wed: Giving Presentations | paper presentation |  |
 |[6](agenda.md#week-6)|Feb 12, 14| Mon: D3 Vis<br/>Wed: Handling Complexity in Data| HW3 |  HW2 |
 |[7](agenda.md#week-7)|Feb 19, 21|Mon: Interactivity in D3<br/>Wed: Network and Tree Visualization |  | |
