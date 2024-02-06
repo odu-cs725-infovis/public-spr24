@@ -192,14 +192,19 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 [Agenda and Materials](#agenda-and-materials-3) | [Assignment](#assignment-3) | [Resources](#resources-3)
 
-### Due (before class)
+### Due Mon (before class)
 
 * HW1
 
 ### Agenda and Materials
 
+**Mon:**
+
 * D3 Principles and Data Manipulation
   * [D3 Data Intro](https://observablehq.com/@oducs-vis/d3-data-intro?collection=@oducs-vis/cs-725)
+
+**Wed:**
+
 * IEEE VIS Conferences
   * slides ([IEEE VIS slides](https://docs.google.com/presentation/d/1Qy17ElNTbgEvvcqxKuAqRMfrifVDPDr8KbKCR5mb6Vw/preview))
 * Reading Academic Papers
@@ -260,9 +265,14 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 ### Agenda and Materials
 
+**Mon:**
+
 * [D3 Vis Intro](https://observablehq.com/@oducs-vis/d3-vis-intro)
   * [supplemental slides](https://docs.google.com/presentation/d/1r_hh5f0sdSrxXYb-UJGSu-OlG1U65H32pAgraMVDVg0/preview)
   * [SVG Translate Example slides](https://docs.google.com/presentation/d/1TKFcgmPKvybFX22-XDJ8f3Hn_0IVbmo5rt045GX34jE/preview)
+
+**Wed:**
+
 * Giving Presentations
   * slides from CS 800 ([Week-06-Presenting](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/preview))
 
@@ -298,3 +308,70 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 * Arnaud Legout, [How To Give a Talk](http://cel.archives-ouvertes.fr/cel-00529505/en/) - comprehensive set of guidelines, includes advice on slide design
 * Jean-luc Doumont, [Creating Effective Slides](https://www.youtube.com/watch?v=meBXuTIPJQk), talk April 4, 2013 at Clark Center, Stanford Univeristy, video (1:03:03)
 * English Communication for Scientists, [Giving Oral Presentations](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/giving-oral-presentations-14239332) (includes delivering as a non-native speaker)
+
+## Week 6
+
+[Agenda and Materials](#agenda-and-materials-5) | [Assignment](#assignment-5) | [Resources](#resources-5)
+
+### Due Mon (before class)
+
+* HW2
+
+### Due Wed (before class)
+
+* Watch the videos [Flat and Hierarchical Clustering | The Dendrogram Explained](https://www.youtube.com/watch?v=ijUMKMC4f9I) (8:26) and [K Means Clustering: Pros and Cons of K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) (watch up to time 4:44)
+
+### Agenda and Materials
+
+**Mon:**
+
+* D3 Vis Intro
+  * [Bar Chart](https://observablehq.com/@oducs-vis/d3-intro-bar-chart?collection=@oducs-vis/cs-725) ([supplemental slides](https://docs.google.com/presentation/d/1r_hh5f0sdSrxXYb-UJGSu-OlG1U65H32pAgraMVDVg0/preview))
+  * [Scatterplot](https://observablehq.com/@oducs-vis/d3-intro-scatterplot?collection=@oducs-vis/cs-725)
+  * [Line and Area Charts](https://observablehq.com/@oducs-vis/d3-intro-line-and-area-charts?collection=@oducs-vis/cs-725)
+  * [Layered Line and Area Charts](https://observablehq.com/@oducs-vis/d3-intro-layered-line-and-area-charts?collection=@oducs-vis/cs-725)
+  * [Multi-Line Chart Arquero Data Setup](https://observablehq.com/@oducs-vis/multi-line-chart-arquero-data-setup?collection=@oducs-vis/cs-725)
+
+**Wed:** (*links to be updated*)
+
+* Handling Complexity in Data
+  * [Complexity slides](https://docs.google.com/presentation/d/14ddgduj5kJ-JzJ-_pTkzOKmbO9NlSVuJcUX_IZLr7n0/preview)
+* [Clustering Example with Vega-Lite](https://observablehq.com/@oducs-vis/vega-lite-clustering-example?collection=@oducs-vis/cs-725)
+
+### Assignment
+
+* [HW3](HW3-D3.md) - Intro to D3 (*link to be updated*)
+* Review next week's materials before class
+
+### Resources
+
+#### D3 Vis
+
+* [CS 725/825 Observable Collection](https://observablehq.com/collection/@oducs-vis/cs-725) - public notebooks for this semester
+* [D3 Lessons](http://lessons.vaclab.unc.edu/), UNC INLS 641 Visual Analytics, David Gotz
+* [NYU Vis Bar Chart Walkthrough](https://observablehq.com/@nyuvis/bar-chart-walk-through)
+* [NYU Vis SVG and D3 Basics Practice](https://observablehq.com/@nyuvis/svg-and-d3-basics-practice-solutions) - scatterplot
+* [NYU Vis Lines and Maps](https://observablehq.com/@nyuvis/lines-and-maps) - line and area charts
+* [NYT Vis Graphical Encoding Examples](https://observablehq.com/@nyuvis/graphical-encoding-examples) - layered line charts, small multiple area charts
+* [Arquero and D3](https://observablehq.com/@uwdata/arquero-and-d3?collection=@uwdata/arquero)
+* [Multi-line chart data preparation in Arquero](https://observablehq.com/@uwdata/multi-line-chart-data-preparation)
+* [Multi-line chart D3 template](https://observablehq.com/@d3/multi-line-chart/2)
+
+#### Handling Complexity
+
+* Tamara Munzner's VAD lectures
+  * [Ch 11/12 Interactive Views, p1](https://www.youtube.com/watch?v=dHSYXZMY96s&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=19) (25:38)
+  * [Ch 11/12 Interactive Views, p2](https://www.youtube.com/watch?v=hxBRDRf_rTM&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=20) (29:27)
+  * [Ch 13 Reduce: Aggregation and Filtering](https://www.youtube.com/watch?v=3KjGpVo6JDU&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=21) (24:39)
+  * [Ch 14 Embed: Focus + Context](https://www.youtube.com/watch?v=A6NfuuAlENc&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=22) (8:53)
+
+#### Clustering
+
+* Segaran, [*Programming Collective Intelligence*](https://go.oreilly.com/old-dominion-university/library/view/programming-collective-intelligence/9780596529321/) - textbook used in CS 432/532, includes lots of Python code examples
+* [Flat and Hierarchical Clustering | The Dendrogram Explained video](https://www.youtube.com/watch?v=ijUMKMC4f9I)
+* K-Means
+  * [K-means Clustering Python Example](https://towardsdatascience.com/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203)
+  * [Visualizing K-Means Algorithm](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/)
+  * [K-Means Walkthrough in Observable](https://observablehq.com/@andreaskdk/k-means)
+  * [kmeans() in Observable](https://observablehq.com/@spond/k-means-clustering-algorithm)
+  * [K Means Clustering: Pros and Cons of K Means Clustering video](https://www.youtube.com/watch?v=YIGtalP1mv0) - watch up to time 4:44
