@@ -335,7 +335,7 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 **Wed:** (*links to be updated*)
 
 * Handling Complexity in Data
-  * [Complexity slides](https://docs.google.com/presentation/d/14ddgduj5kJ-JzJ-_pTkzOKmbO9NlSVuJcUX_IZLr7n0/preview)
+  * [Complexity slides](https://docs.google.com/presentation/d/1YRXiqL7U1YXw5eXBtpmQphD8aJsWhNPrCQkyQrxfG1Y/preview)
 * [Clustering Example with Vega-Lite](https://observablehq.com/@oducs-vis/vega-lite-clustering-example?collection=@oducs-vis/cs-725)
 
 ### Assignment
