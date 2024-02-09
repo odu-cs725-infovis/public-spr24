@@ -1,6 +1,6 @@
 # Semester Agenda
 
-[Jump to Week 5](#week-5)
+[Jump to Week 6](#week-6)
 
 ## Week 1
 
@@ -318,7 +318,7 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 * HW2
 
 ### Due Wed (before class)
-
+* Skim Heer and Shneiderman, [Interactive Dynamics for Visual Analysis](https://queue.acm.org/detail.cfm?id=2146416) ([CACM pdf](https://idl.cs.washington.edu/files/2012-InteractiveDynamics-CACM.pdf)), *Communications of the ACM*, vol. 55, no. 4, 2012, pgs. 45-54
 * Watch the videos [Flat and Hierarchical Clustering | The Dendrogram Explained](https://www.youtube.com/watch?v=ijUMKMC4f9I) (8:26) and [K Means Clustering: Pros and Cons of K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) (watch up to time 4:44)
 
 ### Agenda and Materials
@@ -332,11 +332,11 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
   * [Layered Line and Area Charts](https://observablehq.com/@oducs-vis/d3-intro-layered-line-and-area-charts?collection=@oducs-vis/cs-725)
   * [Multi-Line Chart Arquero Data Setup](https://observablehq.com/@oducs-vis/multi-line-chart-arquero-data-setup?collection=@oducs-vis/cs-725)
 
-**Wed:** (*links to be updated*)
+**Wed:** 
 
-* Handling Complexity in Data
-  * [Complexity slides](https://docs.google.com/presentation/d/1YRXiqL7U1YXw5eXBtpmQphD8aJsWhNPrCQkyQrxfG1Y/preview)
-* [Clustering Example with Vega-Lite](https://observablehq.com/@oducs-vis/vega-lite-clustering-example?collection=@oducs-vis/cs-725)
+* Handling Complexity in Data, [Complexity slides](https://docs.google.com/presentation/d/1YRXiqL7U1YXw5eXBtpmQphD8aJsWhNPrCQkyQrxfG1Y/preview)
+* [Clustering slides](https://docs.google.com/presentation/d/1UWOzrw_93Rx4bNY5PSU0HeVF8UKd0SBU-OWnjp4vFj8/preview)
+  * [Clustering Example with Vega-Lite](https://observablehq.com/@oducs-vis/vega-lite-clustering-example?collection=@oducs-vis/cs-725)
 
 ### Assignment
 
