@@ -340,7 +340,7 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 ### Assignment
 
-* [HW3](HW3-D3.md) - Intro to D3 (*link to be updated*)
+* [HW3](HW3-D3.md) - Intro to D3
 * Review next week's materials before class
 
 ### Resources
