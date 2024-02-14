@@ -375,3 +375,39 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
   * [K-Means Walkthrough in Observable](https://observablehq.com/@andreaskdk/k-means)
   * [kmeans() in Observable](https://observablehq.com/@spond/k-means-clustering-algorithm)
   * [K Means Clustering: Pros and Cons of K Means Clustering video](https://www.youtube.com/watch?v=YIGtalP1mv0) - watch up to time 4:44
+
+## Week 7
+
+[Agenda and Materials](#agenda-and-materials-6) | [Assignment](#assignment-6) | [Resources](#resources-6)
+
+### Due Mon (before class)
+
+* Skim Interaction notebooks for [Vega-Lite](https://observablehq.com/@uwdata/interaction) and [D3](https://observablehq.com/@nyuvis/interaction?collection=@nyuvis/guides-and-examples)
+
+### Due Wed (before class)
+
+* Paper selection for presentation
+* Review Ch 9 in *Visualization Analysis & Design* (textbook link in the Syllabus)
+
+### Agenda and Materials
+
+*Links to be updated/added*
+
+**Mon:**
+
+* Interactivity
+  * Vega-Lite: Interaction in Vega-Lite <!-- , <https://observablehq.com/@oducs-vis/vega-lite-interaction> -->
+  * D3: NYU Vis Interaction notebook, <https://observablehq.com/@nyuvis/interaction>
+
+**Wed:**
+
+* Network and Tree Vis
+  <!-- * [Networks and Trees slides](https://docs.google.com/presentation/d/1fW5TVaA5_qGBbzoBpvHNwagkgycg3mQzvaYzN6KJfII/preview) -->
+
+### Assignment
+
+* Review next week's materials before class
+
+### Resources
+
+*Links to be added*
