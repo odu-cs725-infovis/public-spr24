@@ -318,6 +318,7 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 * HW2
 
 ### Due Wed (before class)
+
 * Skim Heer and Shneiderman, [Interactive Dynamics for Visual Analysis](https://queue.acm.org/detail.cfm?id=2146416) ([CACM pdf](https://idl.cs.washington.edu/files/2012-InteractiveDynamics-CACM.pdf)), *Communications of the ACM*, vol. 55, no. 4, 2012, pgs. 45-54
 * Watch the videos [Flat and Hierarchical Clustering | The Dendrogram Explained](https://www.youtube.com/watch?v=ijUMKMC4f9I) (8:26) and [K Means Clustering: Pros and Cons of K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) (watch up to time 4:44)
 
@@ -332,7 +333,7 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
   * [Layered Line and Area Charts](https://observablehq.com/@oducs-vis/d3-intro-layered-line-and-area-charts?collection=@oducs-vis/cs-725)
   * [Multi-Line Chart Arquero Data Setup](https://observablehq.com/@oducs-vis/multi-line-chart-arquero-data-setup?collection=@oducs-vis/cs-725)
 
-**Wed:** 
+**Wed:**
 
 * Handling Complexity in Data, [Complexity slides](https://docs.google.com/presentation/d/1YRXiqL7U1YXw5eXBtpmQphD8aJsWhNPrCQkyQrxfG1Y/preview)
 * [Clustering slides](https://docs.google.com/presentation/d/1UWOzrw_93Rx4bNY5PSU0HeVF8UKd0SBU-OWnjp4vFj8/preview)
@@ -388,22 +389,11 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 ### Due Wed (before class)
 
 * Paper selection for presentation
-* Review Ch 9 in *Visualization Analysis & Design* (textbook link in the Syllabus)
 
 ### Agenda and Materials
 
-*Links to be updated/added*
-
-**Mon:**
-
-* Interactivity
-  * Vega-Lite: Interaction in Vega-Lite, <https://observablehq.com/@oducs-vis/vega-lite-interaction>
-  * D3: NYU Vis Interaction notebook, <https://observablehq.com/@nyuvis/interaction>
-
-**Wed:**
-
-* Network and Tree Vis
-  <!-- * [Networks and Trees slides](https://docs.google.com/presentation/d/1fW5TVaA5_qGBbzoBpvHNwagkgycg3mQzvaYzN6KJfII/preview) -->
+* Vega-Lite: Interaction in Vega-Lite, <https://observablehq.com/@oducs-vis/vega-lite-interaction>
+* D3: NYU Vis Interaction notebook, <https://observablehq.com/@nyuvis/interaction>
 
 ### Assignment
 
@@ -415,15 +405,41 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 * [CS 625 - Interaction](https://observablehq.com/@oducs-vis/cs-625-interaction?collection=@oducs-vis/cs625)
   * based on [Interaction in Vega-Lite](https://observablehq.com/@uwdata/interaction) - notebook from UW IDL
-  * [Intro to Interactions in Vega-Lite](https://observablehq.com/@jonfroehlich/intro-to-interaction-in-vega-lite), complements original UW notebook and includes more complex examples
+* [Intro to Interactions in Vega-Lite](https://observablehq.com/@jonfroehlich/intro-to-interaction-in-vega-lite), complements original UW notebook and includes more complex examples, including
+  * more examples and explanations of `params()`
+  * combining multiple selections
+  * legend binding (click on legend to interact with chart)
+  * using Observable Inputs with Vega-Lite
 * Vega-Lite v5 updates - <https://github.com/vega/vega-lite/releases/tag/v5.0.0> (moves from using `selection` to `params`)
   * Selection Parameters section in Dynamic Behaviors with Parameters, <https://vega.github.io/vega-lite/docs/parameter.html#select>
 * [Vega-Lite API v5 Selection Methods Examples](https://observablehq.com/@weiglemc/vega-lite-api-v5-selection)
-  * based on [Vega-Lite API Selection Methods](https://observablehq.com/@john-guerra/vega-lite-selection-methods) - uses Vega-Lite v4
+  * based on [Vega-Lite API Selection Methods](https://observablehq.com/@john-guerra/vega-lite-selection-methods), which uses Vega-Lite v4
 * Docs
   * <https://vega.github.io/vega-lite-api/api/#parameters>
   * <https://vega.github.io/vega-lite-api/api/#parameter-bindings>
   * <https://vega.github.io/vega/docs/event-streams/>
   * <https://vega.github.io/vega-lite/examples/#interactive>
 
-*Links to be added*
+#### Observable Inputs
+
+* [Observable Inputs reference](https://observablehq.com/@observablehq/inputs?collection=@observablehq/libraries)
+* [Hello, Inputs!](https://observablehq.com/@observablehq/hello-inputs) - examples
+* <https://observablehq.com/@mbostock/scrubber>
+
+#### Interaction in D3
+
+* [Interaction - D3](https://observablehq.com/@nyuvis/interaction?collection=@nyuvis/guides-and-examples) - notebook from NYU Vis
+* [JavaScript Event reference](https://developer.mozilla.org/en-US/docs/Web/Events#Standard_events)
+* [Introduction to views](https://observablehq.com/@observablehq/introduction-to-views) - Observable specific
+* [d3-brush docs](https://github.com/d3/d3-brush)
+* [d3-brush examples](https://observablehq.com/collection/@d3/d3-brush)
+* [Introduction to D3, Part 2](https://observablehq.com/@uwdata/introduction-to-d3-part-2) - includes interaction
+
+## Week 8
+
+[Agenda and Materials](#agenda-and-materials-7) | [Assignment](#assignment-7) | [Resources](#resources-7)
+
+### Due Mon (before class)
+
+* Read Bach et al., "Dashboard Design Patterns", IEEE VIS 2022, https://ieeexplore.ieee.org/document/9903550 ([arXiv](https://arxiv.org/abs/2205.00757))
+* HW3

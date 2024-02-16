@@ -31,11 +31,11 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[4](agenda.md#week-4)|Jan 29, 31|Mon: D3 Principles and Data Manipulation<br/>Wed: IEEE VIS Conferences, Reading Academic Papers| [HW2](HW2-data.md) | HW1 |
 |[5](agenda.md#week-5)|Feb 5, 7| Mon: D3 Vis Intro<br/>Wed: Giving Presentations | [paper presentation](presentation.md) |  |
 |[6](agenda.md#week-6)|Feb 12, 14| Mon: D3 Vis<br/>Wed: Handling Complexity in Data| [HW3](HW3-D3.md) |  HW2 |
-|[7](agenda.md#week-7)|Feb 19, 21|Mon: Interactivity in Vega-Lite and D3<br/>Wed: Network and Tree Visualization |  | paper selection |
+|[7](agenda.md#week-7)|Feb 19, 21|Mon/Wed: Interactivity in Vega-Lite and D3 |  | paper selection |
 |[8](agenda.md#week-8)|Feb 26, 28|Mon: Dashboard Design<br/>Wed: Implementing Dashboards in Vega-Lite and D3 | HW4<br/>project | HW3 |
 ||Mar 4, 6|**NO CLASS - Spring Break** | | |
-|[9](agenda.md#week-9)|Mar 11, 13|Mon: Visualizing Uncertainty<br/>Wed: Project Discussion| | |
-|[10](agenda.md#week-10)|Mar 18, 20| VIS Paper Presentations | | HW4|
+|[9](agenda.md#week-9)|Mar 11, 13|Mon (**async**): Visualizing Uncertainty<br/>Wed: Network and Tree Visualization, Project Discussion| | HW4 (Wed)|
+|[10](agenda.md#week-10)|Mar 18, 20| VIS Paper Presentations | | presentation slides |
 |[11](agenda.md#week-11)|  Mar 25, 27|VIS Paper Presentations| | |
 |[12](agenda.md#week-12)| Apr 1, 3|**TBA**| | |
 |[13](agenda.md#week-13)| Apr 8, 10|**TBA** | | |
