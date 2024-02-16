@@ -382,7 +382,8 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 ### Due Mon (before class)
 
-* Skim Interaction notebooks for [Vega-Lite](https://observablehq.com/@uwdata/interaction) and [D3](https://observablehq.com/@nyuvis/interaction?collection=@nyuvis/guides-and-examples)
+* Review [CS 625 Vega-Lite Interaction notebook](https://observablehq.com/@oducs-vis/cs-625-interaction)
+* Skim [NYUVis D3 Interaction notebook](https://observablehq.com/@nyuvis/interaction?collection=@nyuvis/guides-and-examples)
 
 ### Due Wed (before class)
 
@@ -396,7 +397,7 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 **Mon:**
 
 * Interactivity
-  * Vega-Lite: Interaction in Vega-Lite <!-- , <https://observablehq.com/@oducs-vis/vega-lite-interaction> -->
+  * Vega-Lite: Interaction in Vega-Lite, <https://observablehq.com/@oducs-vis/vega-lite-interaction>
   * D3: NYU Vis Interaction notebook, <https://observablehq.com/@nyuvis/interaction>
 
 **Wed:**
@@ -409,5 +410,20 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 * Review next week's materials before class
 
 ### Resources
+
+#### Interactivity in Vega-Lite
+
+* [CS 625 - Interaction](https://observablehq.com/@oducs-vis/cs-625-interaction?collection=@oducs-vis/cs625)
+  * based on [Interaction in Vega-Lite](https://observablehq.com/@uwdata/interaction) - notebook from UW IDL
+  * [Intro to Interactions in Vega-Lite](https://observablehq.com/@jonfroehlich/intro-to-interaction-in-vega-lite), complements original UW notebook and includes more complex examples
+* Vega-Lite v5 updates - <https://github.com/vega/vega-lite/releases/tag/v5.0.0> (moves from using `selection` to `params`)
+  * Selection Parameters section in Dynamic Behaviors with Parameters, <https://vega.github.io/vega-lite/docs/parameter.html#select>
+* [Vega-Lite API v5 Selection Methods Examples](https://observablehq.com/@weiglemc/vega-lite-api-v5-selection)
+  * based on [Vega-Lite API Selection Methods](https://observablehq.com/@john-guerra/vega-lite-selection-methods) - uses Vega-Lite v4
+* Docs
+  * <https://vega.github.io/vega-lite-api/api/#parameters>
+  * <https://vega.github.io/vega-lite-api/api/#parameter-bindings>
+  * <https://vega.github.io/vega/docs/event-streams/>
+  * <https://vega.github.io/vega-lite/examples/#interactive>
 
 *Links to be added*
