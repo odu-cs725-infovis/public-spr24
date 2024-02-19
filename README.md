@@ -40,4 +40,4 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[12](agenda.md#week-12)| Apr 1, 3|**TBA**| | |
 |[13](agenda.md#week-13)| Apr 8, 10|**TBA** | | |
 |[14](agenda.md#week-14)| Apr 15,17|Project Demos | | |
-|[15](agenda.md#week-15)| Apr 22|**TBA** | | |
+|[15](agenda.md#week-15)| Apr 22|Project Demos (*if needed*) | | |
