@@ -464,9 +464,31 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 ### Assignment
 
-*to be added*
+* Table Scraps video and discussion - see Canvas Discussions
+* [HW4](HW4-dashboard.md) - Dashboards and Interaction
+* Project: Interactive Dashboard Visualization -- *link to be added*
+* *Next week is Spring Break!*
   
 ### Resources
 
 *no additional resources*
 
+## Week 9
+
+[Agenda and Materials](#agenda-and-materials-8) | [Assignment](#assignment-8) | [Resources](#resources-8)
+
+### Due Wed (before class)
+
+* HW4
+* Review Ch 9 in *Visualization Analysis & Design* (textbook link in the Syllabus)
+
+### Agenda and Materials
+
+**Mon:**
+
+***Class will be held asychronously***
+
+**Wed:**
+
+* Network and Tree Vis
+* Project Discussion
