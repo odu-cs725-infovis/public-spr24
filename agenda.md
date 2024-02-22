@@ -488,6 +488,8 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 ***Class will be held asychronously***
 
+* Visualizing Uncertainty
+
 **Wed:**
 
 * Network and Tree Vis
