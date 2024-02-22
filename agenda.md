@@ -442,8 +442,8 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 ### Due Mon (before class)
 
 * Skim (little more than [Keshav's 1st pass](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf), little less than Keshav's 2nd pass)
- * Sarikaya et al., "What Do We Talk About When We Talk About Dashboards?", IEEE VIS 2018, <https://alper.datav.is/assets/publications/dashboards/dashboards-preprint.pdf>
- * Bach et al., "Dashboard Design Patterns", IEEE VIS 2022, <https://arxiv.org/abs/2205.00757>
+   * Sarikaya et al., "What Do We Talk About When We Talk About Dashboards?", IEEE VIS 2018, <https://alper.datav.is/assets/publications/dashboards/dashboards-preprint.pdf>
+   * Bach et al., "Dashboard Design Patterns", IEEE VIS 2022, <https://arxiv.org/abs/2205.00757>
 * HW3
 
 **Mon:**
