@@ -441,5 +441,32 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 ### Due Mon (before class)
 
-* Read Bach et al., "Dashboard Design Patterns", IEEE VIS 2022, https://ieeexplore.ieee.org/document/9903550 ([arXiv](https://arxiv.org/abs/2205.00757))
+* Skim (little more than [Keshav's 1st pass](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf), little less than Keshav's 2nd pass)
+ * Sarikaya et al., "What Do We Talk About When We Talk About Dashboards?", IEEE VIS 2018, <https://alper.datav.is/assets/publications/dashboards/dashboards-preprint.pdf>
+ * Bach et al., "Dashboard Design Patterns", IEEE VIS 2022, <https://arxiv.org/abs/2205.00757>
 * HW3
+
+**Mon:**
+
+* Counterfactuals
+  * Gotz et al., "Improving Visualization Interpretation Using Counterfactuals", IEEE VIS 2021, <https://vaclab.unc.edu/publication/tvcg_2022_kaul/tvcg_2022_kaul.pdf>
+  * Video of presentation: https://vimeo.com/640020787 (10:55)
+* Dashboard Design
+  * "What Do We Talk About When We Talk About Dashboards?", VIS 2018 video, <https://vimeo.com/299862354> (12:50)
+  * "Dashboard Design Patterns", VIS 2022 presentation <https://www.youtube.com/watch?v=n6qWuzk3u0k&t=3008s> (12m), pre-precorded video <https://www.youtube.com/watch?v=P70kXAco3Qo> (14:12) 
+  * Dashboard Design Patterns website, <https://dashboarddesignpatterns.github.io/>
+  * Bakusevych, [10 Rules for Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
+  * Tableau Help, [Best Visual Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm)
+
+**Wed:**
+
+* Implementing Dashboards - *notebooks to be added*
+
+### Assignment
+
+*to be added*
+  
+### Resources
+
+*no additional resources*
+
