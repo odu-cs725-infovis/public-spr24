@@ -461,6 +461,8 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 **Wed:**
 
 * Implementing Dashboards - *notebooks to be added*
+   * [Vega-Lite Dashboard with Brushing and Linking](https://observablehq.com/@oducs-vis/vega-lite-dashboard-with-brushing-and-linking?collection=@oducs-vis/cs-725)
+   * [D3 Dashboard with Brushing and Linking](https://observablehq.com/@oducs-vis/d3-dashboard-with-brushing-and-linking?collection=@oducs-vis/cs-725)
 
 ### Assignment
 
