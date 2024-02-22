@@ -1,6 +1,6 @@
 # Semester Agenda
 
-[Jump to Week 7](#week-7)
+[Jump to Week 8](#week-8)
 
 ## Week 1
 
