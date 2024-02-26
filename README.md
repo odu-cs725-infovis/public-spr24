@@ -37,7 +37,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[9](agenda.md#week-9)|Mar 11, 13|Mon (**async**): Visualizing Uncertainty<br/>Wed: Network and Tree Visualization, Project Discussion| | HW4 (Wed)|
 |[10](agenda.md#week-10)|Mar 18, 20| VIS Paper Presentations | | presentation slides<br/>project topic |
 |[11](agenda.md#week-11)|  Mar 25, 27|VIS Paper Presentations| | project audience/tasks<br/>meeting w/MCW (Mar 29)|
-|[12](agenda.md#week-12)| Apr 1, 3|**TBA**| | |
-|[13](agenda.md#week-13)| Apr 8, 10|**TBA** | | |
-|[14](agenda.md#week-14)| Apr 15,17|Project Demos | | project development|
+|[12](agenda.md#week-12)| Apr 1, 3|**NO CLASS - Work on Project**| | |
+|[13](agenda.md#week-13)| Apr 8, 10|**NO CLASS - Work on Project** | | |
+|[14](agenda.md#week-14)| Apr 15,17|Project Demos | | project implementation|
 |[15](agenda.md#week-15)| Apr 22|Project Demos (*if needed*) | | project report (Apr 26, 7pm)|
