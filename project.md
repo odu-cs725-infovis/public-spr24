@@ -22,15 +22,15 @@ Your project page/notebook must include your name, CS 725/825 (as appropriate), 
 
 ### Deadlines
 
-**Mon, Mar 18, 3pm** - dataset and topic chosen (posted in Canvas discussion forum)
+**Mon, Mar 18, 3pm** - dataset and topic chosen - submit by posting in Canvas Discussions
 
-**Mon, Mar 25, 3pm** - description of the user audience, specific tasks that will be enabled, and example analysis scenario (document submitted in Canvas)
+**Mon, Mar 25, 3pm** - description of the user audience, specific tasks that will be enabled, and example analysis scenario - submit document in Canvas Assignments
 
 **Fri, Mar 29** - deadline for meeting with me to discuss your initial design
 
-**Mon, Apr 15, 3pm** - final project deadline (last modifications to implementation notebook) 
+**Mon, Apr 15, 3pm** - final project deadline - submit dashboard notebook URL in Canvas Assignments 
 
-**Fri, Apr 26, 7pm** - final report deadline - *this is the end of our scheduled final exam slot*
+**Fri, Apr 26, 7pm** - final report deadline (*this is the end of our scheduled final exam slot*) - submit report notebook URL in Canvas Assignments 
 
 ## Grading
 
@@ -75,5 +75,8 @@ You may also want to talk about significant things you learned (such as helpful 
 In addition, you should be prepared to answer questions about your visualization and its implementation after the demo.
 
 ## Submission
-* Before 3pm on Apr 15, submit the URL of your project in the Project Assignment in Canvas.
-* Before 7pm on Apr 26, submit the URL of your project report in the Project Report Assignment in Canvas.
+
+* Before 3pm on Mar 18, submit your topic in the Project Topic Selection Discussions in Canvas.
+* Before 3pm on Mar 25, submit your user audience/tasks/scenario document or statement in the Visualization Project - Part 1 Assignment in Canvas.
+* Before 3pm on Apr 15, submit the URL of your project in the Visualization Project - Part 2 Assignment in Canvas.
+* Before 7pm on Apr 26, submit the URL of your project report in the Visualization Project - Part 3 Assignment in Canvas.
