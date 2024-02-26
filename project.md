@@ -18,7 +18,7 @@ Your project must be implemented in Vega-Lite or D3. You may build your project 
 
 You will also provide a report about the design of your project.  This should be done as a Markdown document separate from your project visualization page.  Details are below.  
 
-Your project page/notebook must include your name, CS 725/825 (as appropriate), Spring 2024, and a link to your report (can initially be a placeholder - report may be due later than the project).
+Your project page/notebook must include your name, CS 725/825 (as appropriate), Spring 2024, and a link to your report (can initially be a placeholder - report will be due later than the project).
 
 ### Deadlines
 
