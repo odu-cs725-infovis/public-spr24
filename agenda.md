@@ -468,7 +468,7 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 * Table Scraps video and discussion - see Canvas Discussions
 * [HW4](HW4-dashboard.md) - Dashboards and Interaction
-* Project: Interactive Dashboard Visualization -- *link to be added*
+* [Project: Interactive Dashboard Visualization](project.md)
 * *Next week is Spring Break!*
   
 ### Resources
