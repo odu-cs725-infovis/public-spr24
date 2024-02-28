@@ -486,13 +486,41 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 ### Agenda and Materials
 
-**Mon:**
-
-***Class will be held asychronously***
+**Mon:**  ***Class will be held asychronously***
 
 * Visualizing Uncertainty
+   * Watch the lecture video in Canvas Media Gallery
+   * [Uncertainty slides](https://docs.google.com/presentation/d/1sAO0ARfRDhF1I2014zqnoqSzTuM7H9_9PLpJRPPuexg/preview)
 
 **Wed:**
 
 * Network and Tree Vis
+  * [Networks and Trees slides](https://docs.google.com/presentation/d/1O6K14vhHuoEBwUbcDFSHq0nKZYPN-bqMyYa_cPfT_Eg/preview)
 * Project Discussion
+
+### Resources
+
+#### Visualizing Uncertainty Slide References
+
+* Nicole Torres, ["Why It’s So Hard for Us to Visualize Uncertainty"](https://hbr.org/2016/11/why-its-so-hard-for-us-to-visualize-uncertainty), Harvard Business Review,  
+* Nathan Yau, ["Visualizing the Uncertainty in Data"](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)
+* Nathan Yau, ["Showing uncertainty during the live election forecast"](https://flowingdata.com/2016/11/15/showing-uncertainty-during-the-live-election-forecast/)
+* [Live Presidential Forecast](https://www.nytimes.com/elections/2016/forecast/president), *NY Times*
+* [Lace Padilla](http://space.ucmerced.edu), Assistant Professor of Cognitive and Information Sciences, UC Merced
+* [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/), Associate Professor of Computer Science, Northwestern University
+* Lace Padilla, Matthew Key, and Jessica Hullman, ["Uncertainty Visualization"](https://psyarxiv.com/ebd6r), in *Handbook of Computational Statistics and Data Science*, book chapter preprint  
+* Lace Padilla, "How to Read Uncertainty Visualizations", [video](https://www.youtube.com/watch?v=byDZlMwi7kU)
+* Claus Wilke, [*Fundamentals of Data Visualization*](https://clauswilke.com/dataviz/)
+* Hullman, J., P. Resnick, and E. Adar. 2015. [“Hypothetical Outcome Plots Outperform Error Bars and Violin Plots for Inferences About Reliability of Variable Ordering.”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142444) *PLOS ONE* 10: e0142444.
+
+#### Network and Tree Visualization Slide References
+
+* Tamara Munzner, Visualization Analysis & Design [slides](https://www.cs.ubc.ca/~tmm/talks/minicourse14/vadallslides.pdf) (pdf)
+  * [Ch 9 Network Data](https://www.youtube.com/watch?v=XOUJssmvz58&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=13) (30:49)
+* [Force-directed Graph Drawing (Wikipedia)](https://en.wikipedia.org/wiki/Force-directed_graph_drawing)
+* Kate Starbird, [“Information Wars: A Window into the Alternative Media Ecosystem”](https://medium.com/hci-design-at-uw/information-wars-a-window-into-the-alternative-media-ecosystem-a1347f32fd8f)
+* [NYU Networks notebook](https://observablehq.com/@nyuvis/networks) - adjacency matrix, force-directed node-link
+* [Intro to Forced Layouts](https://observablehq.com/@jkeohan/intro-to-forced-layouts) - examples of different forces
+* [Force-Directed Graph](https://observablehq.com/@d3/force-directed-graph) - interactive version (interaction code starts at function drag())
+* [Interactive & Dynamic Force-Directed Graphs with D3](https://medium.com/ninjaconcept/interactive-dynamic-force-directed-graphs-with-d3-da720c6d7811) - walkthrough with more explanation (d3.v4)
+* [Simple Force-Directed Graph for CS 432/532](https://observablehq.com/@weiglemc/force-directed-layout-example-cs-432-532-spring-2020)
