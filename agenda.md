@@ -1,6 +1,6 @@
 # Semester Agenda
 
-[Jump to Week 8](#week-8)
+[Jump to Week 9](#week-9)
 
 ## Week 1
 
@@ -488,9 +488,9 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 
 **Mon:**  ***Class will be held asychronously***
 
-* Visualizing Uncertainty
-   * Watch the lecture video in Canvas Media Gallery
+* Visualizing Uncertainty - *watch the lecture video in Canvas Media Gallery*
    * [Uncertainty slides](https://docs.google.com/presentation/d/1sAO0ARfRDhF1I2014zqnoqSzTuM7H9_9PLpJRPPuexg/preview)
+   * watch the ["How to Read Uncertainty Visualizations" video](https://www.youtube.com/watch?v=byDZlMwi7kU) from Lace Padilla
 
 **Wed:**
 
@@ -506,7 +506,7 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 * Nathan Yau, ["Visualizing the Uncertainty in Data"](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)
 * Nathan Yau, ["Showing uncertainty during the live election forecast"](https://flowingdata.com/2016/11/15/showing-uncertainty-during-the-live-election-forecast/)
 * [Live Presidential Forecast](https://www.nytimes.com/elections/2016/forecast/president), *NY Times*
-* [Lace Padilla](http://space.ucmerced.edu), Assistant Professor of Cognitive and Information Sciences, UC Merced
+* [Lace Padilla](https://www.lacepadilla.com/), Assistant Professor of Computer Science and Psychology, Northeastern University
 * [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/), Associate Professor of Computer Science, Northwestern University
 * Lace Padilla, Matthew Key, and Jessica Hullman, ["Uncertainty Visualization"](https://psyarxiv.com/ebd6r), in *Handbook of Computational Statistics and Data Science*, book chapter preprint  
 * Lace Padilla, "How to Read Uncertainty Visualizations", [video](https://www.youtube.com/watch?v=byDZlMwi7kU)
