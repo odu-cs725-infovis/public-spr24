@@ -489,13 +489,14 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 **Mon:**  ***Class will be held asychronously***
 
 * Visualizing Uncertainty - *watch the lecture video in Canvas Media Gallery*
-   * [Uncertainty slides](https://docs.google.com/presentation/d/1sAO0ARfRDhF1I2014zqnoqSzTuM7H9_9PLpJRPPuexg/preview)
-   * watch the ["How to Read Uncertainty Visualizations" video](https://www.youtube.com/watch?v=byDZlMwi7kU) from Lace Padilla
+  * [Uncertainty slides](https://docs.google.com/presentation/d/1sAO0ARfRDhF1I2014zqnoqSzTuM7H9_9PLpJRPPuexg/preview)
+  * watch the ["How to Read Uncertainty Visualizations" video](https://www.youtube.com/watch?v=byDZlMwi7kU) from Lace Padilla
 
 **Wed:**
 
 * Network and Tree Vis
   * [Networks and Trees slides](https://docs.google.com/presentation/d/1O6K14vhHuoEBwUbcDFSHq0nKZYPN-bqMyYa_cPfT_Eg/preview)
+* Table Scraps paper/video discussion
 * Project Discussion
 
 ### Resources
@@ -519,8 +520,122 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
   * [Ch 9 Network Data](https://www.youtube.com/watch?v=XOUJssmvz58&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=13) (30:49)
 * [Force-directed Graph Drawing (Wikipedia)](https://en.wikipedia.org/wiki/Force-directed_graph_drawing)
 * Kate Starbird, [“Information Wars: A Window into the Alternative Media Ecosystem”](https://medium.com/hci-design-at-uw/information-wars-a-window-into-the-alternative-media-ecosystem-a1347f32fd8f)
-* [NYU Networks notebook](https://observablehq.com/@nyuvis/networks) - adjacency matrix, force-directed node-link
 * [Intro to Forced Layouts](https://observablehq.com/@jkeohan/intro-to-forced-layouts) - examples of different forces
-* [Force-Directed Graph](https://observablehq.com/@d3/force-directed-graph) - interactive version (interaction code starts at function drag())
-* [Interactive & Dynamic Force-Directed Graphs with D3](https://medium.com/ninjaconcept/interactive-dynamic-force-directed-graphs-with-d3-da720c6d7811) - walkthrough with more explanation (d3.v4)
+* [Force-Directed Graph](https://observablehq.com/@d3/force-directed-graph/2) - interactive version (interaction code starts at d3.drag())
 * [Simple Force-Directed Graph for CS 432/532](https://observablehq.com/@weiglemc/force-directed-layout-example-cs-432-532-spring-2020)
+* [Interactive & Dynamic Force-Directed Graphs with D3](https://medium.com/ninjaconcept/interactive-dynamic-force-directed-graphs-with-d3-da720c6d7811) - walkthrough with more explanation (d3.v4)
+* [NYU Networks notebook](https://observablehq.com/@nyuvis/networks) - adjacency matrix, force-directed node-link
+* D3 [Matrix Diagram](https://observablehq.com/@bstaats/matrix-diagram)
+* D3 [Radial Tree](https://observablehq.com/@d3/radial-tree/2)
+* D3 [Arc Diagram](https://observablehq.com/@bstaats/arc-diagram)
+* D3 [Treemap](https://observablehq.com/@d3/treemap-stratify)
+* D3 [Circle Packing](https://observablehq.com/@d3/pack/2)
+* D3 [Sunburst](https://observablehq.com/@d3/sunburst/2)
+
+## Week 10
+
+[Agenda and Materials](#agenda-and-materials-9) | [Assignment](#assignment-9) | [Resources](#resources-9)
+
+### Due Mon (before class)
+
+* Academic Paper Presentation slides
+* Project topic
+
+### Agenda and Materials
+
+VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/152933/pages/paper-presentation-schedule))
+
+**Mon:**
+
+* Thu - Multiple Forecast Visualizations (MFVs): Trade-offs in Trust and Performance in Multiple COVID-19 Forecast Visualizations, IEEE VIS 2022, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/9904455>
+* David - Let the Chart Spark: Embedding Semantic Context into Chart with Generative Model, IEEE VIS 2023, <https://arxiv.org/abs/2304.14630>
+* Jenah - Affective Visualization Design: Leveraging the Emotional Impact of Data, IEEE VIS 2023, <https://arxiv.org/abs/2308.02831>
+
+**Wed:**
+
+* Caleb - Affective Learning Objectives for Communicative Visualizations, IEEE VIS 2022, <https://arxiv.org/abs/2208.04078>
+* Yasasi - EmphasisChecker: A Tool for Guiding Chart and Caption Emphasis, IEEE VIS 2023, <https://arxiv.org/abs/2307.13858>
+* Wes - Dead or Alive: Continuous Data Profiling for Interactive Data Science, IEEE VIS 2023, <https://arxiv.org/abs/2308.03964>
+
+### Assignment
+
+*no assignment*
+
+### Resources
+
+*no additional resources*
+
+## Week 11
+
+[Agenda and Materials](#agenda-and-materials-10) | [Assignment](#assignment-10) | [Resources](#resources-10)
+
+### Due Mon (before class)
+
+* Project audience, task, and scenario
+
+### Agenda and Materials
+
+VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/152933/pages/paper-presentation-schedule))
+
+**Mon:**
+
+* Eikra - My Model is Unfair, Do People Even Care? Visual Design Affects Trust and Perceived Bias in Machine Learning, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10296507>
+* Maaz - The Arrangement of Marks Impacts Afforded Messages: Ordering, Partitioning, Spacing, and Coloring in Bar Charts, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10291030>
+* Prashant - Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10309864>
+
+**Wed:**
+
+* Soujanya - Reasoning Affordances with Tables and Bar Charts, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10002893>
+* Darin - Animated Vega-Lite: Unifying Animation with a Grammar of Interactive Graphics, IEEE VIS 2022, <https://vis.csail.mit.edu/pubs/animated-vega-lite.pdf>
+
+### Assignment
+
+*no assignment*
+
+### Resources
+
+*no additional resources*
+
+## Week 12
+
+**NO CLASS - Work on Projects**
+
+## Week 13
+
+**NO CLASS - Work on Projects**
+
+## Week 14
+
+[Agenda and Materials](#agenda-and-materials-11) | [Assignment](#assignment-11) | [Resources](#resources-11)
+
+### Due Mon (before class)
+
+* Project implementation
+
+### Agenda and Materials
+
+Project demos
+
+### Assignment
+
+*no assignment*
+
+### Resources
+
+*no additional resources*
+
+## Week 15
+
+[Agenda and Materials](#agenda-and-materials-12) | [Assignment](#assignment-12) | [Resources](#resources-12)
+
+### Agenda and Materials
+
+Project demos
+
+### Assignment
+
+*no assignment*
+
+### Resources
+
+*no additional resources*
