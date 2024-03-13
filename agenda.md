@@ -497,6 +497,9 @@ Vega-Lite in Observable - see [Vega-Lite API Style](#vega-lite-api-style) and [V
 * Network and Tree Vis
   * [Networks and Trees slides](https://docs.google.com/presentation/d/1O6K14vhHuoEBwUbcDFSHq0nKZYPN-bqMyYa_cPfT_Eg/preview)
 * Table Scraps paper/video discussion
+  * video - <https://www.youtube.com/watch?v=woyuvqUu52I>
+  * [Table Scraps: An Actionable Framework for Multi-Table Data Wrangling From An Artifact Study of Computational Journalism](http://www.cs.ubc.ca/group/infovis/pubs/2020/table-scraps/), IEEE VIS 2020
+  * Open Journalism GitHub, <https://github.com/silva-shih/open-journalism>
 * Project Discussion
 
 ### Resources
