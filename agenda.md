@@ -1,6 +1,6 @@
 # Semester Agenda
 
-[Jump to Week 10](#week-10)
+[Jump to Week 11](#week-11)
 
 ## Week 1
 
@@ -583,7 +583,6 @@ VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/15
 **Mon:**
 
 * Eikra - My Model is Unfair, Do People Even Care? Visual Design Affects Trust and Perceived Bias in Machine Learning, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10296507>
-* Maaz - The Arrangement of Marks Impacts Afforded Messages: Ordering, Partitioning, Spacing, and Coloring in Bar Charts, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10291030>
 * Prashant - Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10309864>
 
 **Wed:**
@@ -618,6 +617,10 @@ VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/15
 ### Agenda and Materials
 
 Project demos
+
+**Wed:**
+
+* Maaz (paper presentation) - The Arrangement of Marks Impacts Afforded Messages: Ordering, Partitioning, Spacing, and Coloring in Bar Charts, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10291030>
 
 ### Assignment
 
