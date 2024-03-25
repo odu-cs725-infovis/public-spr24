@@ -583,10 +583,10 @@ VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/15
 **Mon:**
 
 * Eikra - My Model is Unfair, Do People Even Care? Visual Design Affects Trust and Perceived Bias in Machine Learning, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10296507>
-* Prashant - Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10309864>
 
 **Wed:**
 
+* Prashant - Swaying the Public? Impacts of Election Forecast Visualizations on Emotion, Trust, and Intention in the 2022 U.S. Midterms, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10309864>
 * Soujanya - Reasoning Affordances with Tables and Bar Charts, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10002893>
 * Darin - Animated Vega-Lite: Unifying Animation with a Grammar of Interactive Graphics, IEEE VIS 2022, <https://vis.csail.mit.edu/pubs/animated-vega-lite.pdf>
 
