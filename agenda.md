@@ -618,9 +618,24 @@ VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/15
 
 Project demos
 
+* Thu - Global Landslide Occurrences
+* David - Internet Usage in the US
+* Wes - NFL ELO rating
+* Prashant - US 2020 General Elections
+
+You can view your classmates' projects and provide feedback or ask questions in the [Project Demo Discussion](https://canvas.odu.edu/courses/152933/discussion_topics/863553).
+
 **Wed:**
 
-* Maaz (paper presentation) - The Arrangement of Marks Impacts Afforded Messages: Ordering, Partitioning, Spacing, and Coloring in Bar Charts, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10291030>
+Maaz (paper presentation) - The Arrangement of Marks Impacts Afforded Messages: Ordering, Partitioning, Spacing, and Coloring in Bar Charts, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10291030>
+
+Project demos
+
+* Jenah - City of Norfolk Parks and Rec
+* Eikra - Airbnb in NYC
+* Yasasi - Graduation and Dropout Rates in Virginia Public Schools
+
+You can view your classmates' projects and provide feedback or ask questions in the [Project Demo Discussion](https://canvas.odu.edu/courses/152933/discussion_topics/863553).
 
 ### Assignment
 
@@ -637,6 +652,13 @@ Project demos
 ### Agenda and Materials
 
 Project demos
+
+* Maaz - Global Influenza Outbreaks
+* Caleb - EPA Automotive Trends
+* Soujanya - COVID Tracking in the US
+* Darin - MLB Spending and Playoff Success
+
+You can view your classmates' projects and provide feedback or ask questions in the [Project Demo Discussion](https://canvas.odu.edu/courses/152933/discussion_topics/863553).
 
 ### Assignment
 
