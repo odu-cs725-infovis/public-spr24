@@ -621,19 +621,18 @@ Project demos
 * Thu - Global Landslide Occurrences
 * David - Internet Usage in the US
 * Wes - NFL ELO rating
-* Prashant - US 2020 General Elections
+* Prashant - Impact of Weather on Crops
 
 You can view your classmates' projects and provide feedback or ask questions in the [Project Demo Discussion](https://canvas.odu.edu/courses/152933/discussion_topics/863553).
 
 **Wed:**
-
-Maaz (paper presentation) - The Arrangement of Marks Impacts Afforded Messages: Ordering, Partitioning, Spacing, and Coloring in Bar Charts, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10291030>
 
 Project demos
 
 * Jenah - City of Norfolk Parks and Rec
 * Eikra - Airbnb in NYC
 * Yasasi - Graduation and Dropout Rates in Virginia Public Schools
+* Maaz - Global Influenza Outbreaks
 
 You can view your classmates' projects and provide feedback or ask questions in the [Project Demo Discussion](https://canvas.odu.edu/courses/152933/discussion_topics/863553).
 
@@ -651,9 +650,10 @@ You can view your classmates' projects and provide feedback or ask questions in 
 
 ### Agenda and Materials
 
+Maaz (paper presentation) - The Arrangement of Marks Impacts Afforded Messages: Ordering, Partitioning, Spacing, and Coloring in Bar Charts, IEEE VIS 2023, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/10291030>
+
 Project demos
 
-* Maaz - Global Influenza Outbreaks
 * Caleb - EPA Automotive Trends
 * Soujanya - COVID Tracking in the US
 * Darin - MLB Spending and Playoff Success
